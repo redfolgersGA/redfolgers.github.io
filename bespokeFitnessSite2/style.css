@@ -1,0 +1,77 @@
+
+div.siteHeader{
+
+  height: 300px;
+  width: 100%;
+  background-color: #39e09b;
+  border: 1px solid black;
+  position: absolute;
+}
+
+div.navCenter{
+  position: absolute;
+}
+
+.nav{
+  position: relative;
+  top: 200px;
+  left: 100px;
+  /* text-align: center; */
+
+}
+
+a{
+  /* display: inline-block; */
+  color: #FFFFFF;
+
+  font-size: 17px;
+}
+
+
+
+.headline{
+  height: 150px;
+  max-width: 100%;
+  border: 1px solid black;
+  position: relative;
+  top: 350px;
+  margin: 0, auto;
+  background-color: #00FA9A ;
+}
+/*
+div.textCenter{
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+} */
+
+.salesVideo{
+  position: relative;
+  top: 500px;
+  margin: 0 auto;
+}
+
+iframe{
+  max-width: 100%;
+  margin: 0 auto;
+  position: relative;
+
+}
+
+.salesButton{
+  position: relative;
+  top: 550px;
+  height: 80px;
+  max-width: 100%;
+
+
+
+
+}
+
+
+
+
+
+
+
